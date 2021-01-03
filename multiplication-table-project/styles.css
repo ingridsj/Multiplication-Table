@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(to right,rgba(60, 60, 241, 0.719) +20% , white , pink);
+    text-align: center;
+}
+
+header {
+    font: normal 18pt Arial;
+    color:blueviolet;
+}
+
+section {
+    background-color: white;
+    font: normal 12pt Arial; 
+    width: 500px;
+    border-radius: 15px;
+    padding: 40px;
+    margin: auto;
+    box-shadow: 5px 5px 10px tomato;  
+}
+
+#tableNumber {
+    border-radius: 4px;
+}
+
+#generateTab{
+    background-image:  linear-gradient(to right,rgba(60, 60, 241, 0.719) +20% , white , pink);
+    border-radius: 4px;    
+}
+
+#selectTable {    
+    width: 130px;
+    border-radius: 2px;
+}
+
+footer {
+    font: oblique 10pt Arial;
+    color:blueviolet;
+}
